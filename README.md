@@ -1,2 +1,2 @@
 # gwentPointsCounter
-Learning NativeScript-Vue
+Learning NativeScript
