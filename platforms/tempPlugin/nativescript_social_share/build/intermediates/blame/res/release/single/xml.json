@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/var/www/gwentPointsCounter/platforms/tempPlugin/nativescript_social_share/build/intermediates/res/merged/release/xml/provider_paths.xml",
+        "source": "/var/www/gwentPointsCounter/platforms/tempPlugin/nativescript_social_share/src/main/res/xml/provider_paths.xml"
+    },
+    {
         "merged": "/var/www/Groceries/platforms/tempPlugin/nativescript_social_share/build/intermediates/res/merged/release/xml/provider_paths.xml",
         "source": "/var/www/Groceries/platforms/tempPlugin/nativescript_social_share/src/main/res/xml/provider_paths.xml"
     }

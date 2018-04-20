@@ -1,5 +1,9 @@
 <Page loaded="loaded">
     
+    <Page.actionBar>
+        <ActionBar title="Sign up"></ActionBar>
+    </Page.actionBar>
+    
     <StackLayout orientation="vertical">
 
         <Image src="res://logo" horizontalAlignment="center" stretch="none" />        

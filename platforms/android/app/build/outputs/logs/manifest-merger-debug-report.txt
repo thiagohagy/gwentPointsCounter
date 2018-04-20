@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:2:1-40:12
+ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:2:1-40:12
 MERGED from [com.android.support:multidex:1.0.2] /home/thiago/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/c72aed593b78b4c2488d2f43b5bbba89/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:design:23.4.0] /home/thiago/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/282108a4a0d69e3910e3ad2bfebf6675/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:23.4.0] /home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/AndroidManifest.xml:17:1-27:12
@@ -10,37 +10,37 @@ MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/thiago/.
 MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/thiago/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/dda2920f82ba1db8e99748afa08ffbdd/AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:recyclerview-v7:23.4.0] /home/thiago/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/3dae10aa3f26e56a851500ae44c776b2/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-v4:23.4.0] /home/thiago/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/b19071efa5b7684d0408ac3bc1645566/AndroidManifest.xml:17:1-24:12
-MERGED from [:nativescript-optimized:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript-optimized.aar/f64e1db03427478522554eafa5a2853f/AndroidManifest.xml:2:1-11:12
-MERGED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/dd5071c981352dec77ea7e96d8497735/AndroidManifest.xml:2:1-21:12
-MERGED from [:widgets-release:] /home/thiago/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/afd4e3c352b840970232fdfb32000add/AndroidManifest.xml:2:1-14:12
-INJECTED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [:nativescript-optimized:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript-optimized.aar/23257d7ced9f87f1e5e3102c740f57f3/AndroidManifest.xml:2:1-11:12
+MERGED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/e197ca0566e99da7285f8c55772ada3c/AndroidManifest.xml:2:1-21:12
+MERGED from [:widgets-release:] /home/thiago/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/1f79324a98fb8134b7d8201ea62fe922/AndroidManifest.xml:2:1-14:12
+INJECTED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:2:1-40:12
 	package
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:3:2-38
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:3:2-38
 	android:versionName
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:5:2-27
-		INJECTED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml
-		INJECTED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:4:2-25
-		INJECTED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml
-		INJECTED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml
 supports-screens
-ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:7:2-11:33
+ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:7:2-11:33
 	android:largeScreens
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:10:3-30
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:10:3-30
 	android:smallScreens
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:8:3-30
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:8:3-30
 	android:normalScreens
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:9:3-31
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:9:3-31
 	android:xlargeScreens
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:11:3-31
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:11:3-31
 uses-sdk
-ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
-INJECTED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
-INJECTED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
 MERGED from [com.android.support:multidex:1.0.2] /home/thiago/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/c72aed593b78b4c2488d2f43b5bbba89/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:multidex:1.0.2] /home/thiago/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/c72aed593b78b4c2488d2f43b5bbba89/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:design:23.4.0] /home/thiago/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/282108a4a0d69e3910e3ad2bfebf6675/AndroidManifest.xml:20:5-43
@@ -55,39 +55,39 @@ MERGED from [com.android.support:recyclerview-v7:23.4.0] /home/thiago/.gradle/ca
 MERGED from [com.android.support:recyclerview-v7:23.4.0] /home/thiago/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/3dae10aa3f26e56a851500ae44c776b2/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.4.0] /home/thiago/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/b19071efa5b7684d0408ac3bc1645566/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.4.0] /home/thiago/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/b19071efa5b7684d0408ac3bc1645566/AndroidManifest.xml:20:5-43
-MERGED from [:nativescript-optimized:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript-optimized.aar/f64e1db03427478522554eafa5a2853f/AndroidManifest.xml:7:5-9:41
-MERGED from [:nativescript-optimized:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript-optimized.aar/f64e1db03427478522554eafa5a2853f/AndroidManifest.xml:7:5-9:41
-MERGED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/dd5071c981352dec77ea7e96d8497735/AndroidManifest.xml:7:5-47
-MERGED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/dd5071c981352dec77ea7e96d8497735/AndroidManifest.xml:7:5-47
-MERGED from [:widgets-release:] /home/thiago/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/afd4e3c352b840970232fdfb32000add/AndroidManifest.xml:7:5-9:41
-MERGED from [:widgets-release:] /home/thiago/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/afd4e3c352b840970232fdfb32000add/AndroidManifest.xml:7:5-9:41
-INJECTED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
-INJECTED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+MERGED from [:nativescript-optimized:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript-optimized.aar/23257d7ced9f87f1e5e3102c740f57f3/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript-optimized.aar/23257d7ced9f87f1e5e3102c740f57f3/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/e197ca0566e99da7285f8c55772ada3c/AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/e197ca0566e99da7285f8c55772ada3c/AndroidManifest.xml:7:5-47
+MERGED from [:widgets-release:] /home/thiago/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/1f79324a98fb8134b7d8201ea62fe922/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /home/thiago/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/1f79324a98fb8134b7d8201ea62fe922/AndroidManifest.xml:7:5-9:41
+INJECTED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:15:3-32
-		INJECTED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml
-		INJECTED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:15:3-32
+		INJECTED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
-		INJECTED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml
-		MERGED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
-		INJECTED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
+		INJECTED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml
+		MERGED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
+		INJECTED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:17:2-76
+ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:17:2-76
 	android:name
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:17:19-74
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:17:19-74
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:18:2-77
+ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:18:2-77
 	android:name
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:18:19-75
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:18:19-75
 uses-permission#android.permission.INTERNET
-ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:19:2-63
+ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:19:2-63
 	android:name
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:19:19-61
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:19:19-61
 application
-ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:21:2-39:16
+ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:21:2-39:16
 MERGED from [com.android.support:design:23.4.0] /home/thiago/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/282108a4a0d69e3910e3ad2bfebf6675/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:23.4.0] /home/thiago/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/282108a4a0d69e3910e3ad2bfebf6675/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.4.0] /home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/AndroidManifest.xml:25:5-20
@@ -98,55 +98,55 @@ MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/thiago/.g
 MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/thiago/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/dda2920f82ba1db8e99748afa08ffbdd/AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-v4:23.4.0] /home/thiago/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/b19071efa5b7684d0408ac3bc1645566/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.4.0] /home/thiago/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/b19071efa5b7684d0408ac3bc1645566/AndroidManifest.xml:22:5-20
-MERGED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/dd5071c981352dec77ea7e96d8497735/AndroidManifest.xml:9:5-19:19
-MERGED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/dd5071c981352dec77ea7e96d8497735/AndroidManifest.xml:9:5-19:19
-MERGED from [:widgets-release:] /home/thiago/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/afd4e3c352b840970232fdfb32000add/AndroidManifest.xml:11:5-12:19
-MERGED from [:widgets-release:] /home/thiago/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/afd4e3c352b840970232fdfb32000add/AndroidManifest.xml:11:5-12:19
+MERGED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/e197ca0566e99da7285f8c55772ada3c/AndroidManifest.xml:9:5-19:19
+MERGED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/e197ca0566e99da7285f8c55772ada3c/AndroidManifest.xml:9:5-19:19
+MERGED from [:widgets-release:] /home/thiago/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/1f79324a98fb8134b7d8201ea62fe922/AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] /home/thiago/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/1f79324a98fb8134b7d8201ea62fe922/AndroidManifest.xml:11:5-12:19
 	android:label
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:25:3-35
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:25:3-35
 	android:icon
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:24:3-32
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:24:3-32
 	android:allowBackup
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:23:3-29
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:23:3-29
 	android:theme
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:26:3-34
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:26:3-34
 	android:name
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:22:3-49
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:22:3-49
 activity#com.tns.NativeScriptActivity
-ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:27:3-37:14
+ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:27:3-37:14
 	android:label
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:29:4-49
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:29:4-49
 	android:configChanges
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:30:4-65
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:30:4-65
 	android:name
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:28:4-47
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:28:4-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:32:5-36:20
+ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:32:5-36:20
 action#android.intent.action.MAIN
-ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:33:5-57
+ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:33:5-57
 	android:name
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:33:13-54
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:33:13-54
 category#android.intent.category.LAUNCHER
-ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:35:5-65
+ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:35:5-65
 	android:name
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:35:15-62
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:35:15-62
 activity#com.tns.ErrorReportActivity
-ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:38:3-57
+ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:38:3-57
 	android:name
-		ADDED from /var/www/Groceries/platforms/android/app/src/main/AndroidManifest.xml:38:13-55
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:38:13-55
 provider#android.support.v4.content.FileProvider
-ADDED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/dd5071c981352dec77ea7e96d8497735/AndroidManifest.xml:10:9-18:20
+ADDED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/e197ca0566e99da7285f8c55772ada3c/AndroidManifest.xml:10:9-18:20
 	android:grantUriPermissions
-		ADDED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/dd5071c981352dec77ea7e96d8497735/AndroidManifest.xml:14:13-47
+		ADDED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/e197ca0566e99da7285f8c55772ada3c/AndroidManifest.xml:14:13-47
 	android:authorities
-		ADDED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/dd5071c981352dec77ea7e96d8497735/AndroidManifest.xml:12:13-60
+		ADDED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/e197ca0566e99da7285f8c55772ada3c/AndroidManifest.xml:12:13-60
 	android:exported
-		ADDED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/dd5071c981352dec77ea7e96d8497735/AndroidManifest.xml:13:13-37
+		ADDED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/e197ca0566e99da7285f8c55772ada3c/AndroidManifest.xml:13:13-37
 	android:name
-		ADDED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/dd5071c981352dec77ea7e96d8497735/AndroidManifest.xml:11:13-67
+		ADDED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/e197ca0566e99da7285f8c55772ada3c/AndroidManifest.xml:11:13-67
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/dd5071c981352dec77ea7e96d8497735/AndroidManifest.xml:15:13-17:58
+ADDED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/e197ca0566e99da7285f8c55772ada3c/AndroidManifest.xml:15:13-17:58
 	android:resource
-		ADDED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/dd5071c981352dec77ea7e96d8497735/AndroidManifest.xml:17:17-55
+		ADDED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/e197ca0566e99da7285f8c55772ada3c/AndroidManifest.xml:17:17-55
 	android:name
-		ADDED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/dd5071c981352dec77ea7e96d8497735/AndroidManifest.xml:16:17-67
+		ADDED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms-1/files-1.1/nativescript_social_share.aar/e197ca0566e99da7285f8c55772ada3c/AndroidManifest.xml:16:17-67

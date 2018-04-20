@@ -1,1 +1,1 @@
-/var/www/Groceries/platforms/android/app/src/main/assets/app
+/var/www/gwentPointsCounter/platforms/android/app/src/main/assets/app
