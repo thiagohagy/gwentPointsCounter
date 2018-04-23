@@ -11,3 +11,4 @@
 /var/www/gwentPointsCounter/platforms/android/app/build/exploded-dependencies/1/classes.jar
 /var/www/gwentPointsCounter/platforms/android/app/build/exploded-dependencies/2/classes.jar
 /var/www/gwentPointsCounter/platforms/android/app/build/intermediates/classes/debug
+/var/www/gwentPointsCounter/platforms/android/app/build/intermediates/classes/debug

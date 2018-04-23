@@ -151,11 +151,7 @@
 /var/www/gwentPointsCounter/platforms/android/app/src/main/assets/app/tns_modules/tns-core-modules/profiling/profiling.js
 /var/www/gwentPointsCounter/platforms/android/app/src/main/assets/app/tns_modules/tns-core-modules/console/console.js
 /var/www/gwentPointsCounter/platforms/android/app/src/main/assets/app/tns_modules/nativescript-social-share/social-share.js
-/var/www/gwentPointsCounter/platforms/android/app/src/main/assets/app/views/list/list.js
-/var/www/gwentPointsCounter/platforms/android/app/src/main/assets/app/views/register/register.js
-/var/www/gwentPointsCounter/platforms/android/app/src/main/assets/app/views/login/login.js
+/var/www/gwentPointsCounter/platforms/android/app/src/main/assets/app/views/counter/counter.js
+/var/www/gwentPointsCounter/platforms/android/app/src/main/assets/app/views/faction/faction.js
 /var/www/gwentPointsCounter/platforms/android/app/src/main/assets/app/app.js
-/var/www/gwentPointsCounter/platforms/android/app/src/main/assets/app/shared/view-models/user-view-model.js
-/var/www/gwentPointsCounter/platforms/android/app/src/main/assets/app/shared/view-models/grocery-list-view-model.js
 /var/www/gwentPointsCounter/platforms/android/app/src/main/assets/app/shared/config.js
-/var/www/gwentPointsCounter/platforms/android/app/src/main/assets/app/shared/utils/ios-swipe-delete.js

@@ -1,0 +1,26 @@
+#faction1{
+    background-image: url('~/images/monsters.png');
+    background-repeat: no-repeat;
+    background-color: #ccc;
+    background-position: center center;
+}
+
+#faction2{
+    background-image: url('~/images/monsters.png');
+    background-position: center center;
+    background-color: #ccc;
+    background-repeat: no-repeat;
+    
+}
+
+#letsPlay{
+    background-image: url('~/images/thumps.jpg');
+    background-position: center center;
+    background-color: #ccc;
+    background-repeat: no-repeat;    
+    color: #fff;
+}
+
+Label {
+    text-align: center;
+}

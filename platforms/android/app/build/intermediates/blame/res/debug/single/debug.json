@@ -28,36 +28,36 @@
         "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/var/www/gwentPointsCounter/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_go_search_api_mtrl_alpha.png.flat",
         "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
         "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
-        "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/var/www/gwentPointsCounter/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "/var/www/gwentPointsCounter/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/var/www/gwentPointsCounter/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_ab_back_mtrl_am_alpha.png.flat",
         "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/var/www/gwentPointsCounter/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_ab_back_mtrl_am_alpha.png.flat",
@@ -80,12 +80,12 @@
         "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
-        "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
-    },
-    {
         "merged": "/var/www/gwentPointsCounter/platforms/android/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
         "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "/var/www/gwentPointsCounter/platforms/android/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar_include.xml.flat",
@@ -144,28 +144,28 @@
         "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
-        "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/var/www/gwentPointsCounter/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_voice_search_api_mtrl_alpha.png.flat",
-        "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
+        "merged": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "/var/www/gwentPointsCounter/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
-        "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/layout/abc_search_view.xml"
+        "merged": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/var/www/gwentPointsCounter/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
+        "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/layout/abc_search_view.xml"
     },
     {
         "merged": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -184,12 +184,12 @@
         "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
     },
     {
-        "merged": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_dark.xml.flat",
-        "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/color/abc_primary_text_material_dark.xml"
-    },
-    {
         "merged": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable_design_snackbar_background.xml.flat",
         "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/282108a4a0d69e3910e3ad2bfebf6675/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_dark.xml.flat",
+        "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/color/abc_primary_text_material_dark.xml"
     },
     {
         "merged": "/var/www/gwentPointsCounter/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",

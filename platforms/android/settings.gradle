@@ -1,4 +1,4 @@
-rootProject.name = "Groceries"
+rootProject.name = "Gwent Points Counter"
 include ':app' //,  ':runtime', ":runtime-binding-generator"
 
 //project(':runtime').projectDir = new File('path/to/runtime')

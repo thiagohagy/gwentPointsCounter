@@ -16,7 +16,7 @@ MERGED from [:widgets-release:] /home/thiago/.gradle/caches/transforms-1/files-1
 INJECTED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:2:1-40:12
 INJECTED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:2:1-40:12
 	package
-		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:3:2-38
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:3:2-41
 	android:versionName
 		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:5:2-27
 		INJECTED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml
@@ -103,7 +103,7 @@ MERGED from [:nativescript_social_share:] /home/thiago/.gradle/caches/transforms
 MERGED from [:widgets-release:] /home/thiago/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/1f79324a98fb8134b7d8201ea62fe922/AndroidManifest.xml:11:5-12:19
 MERGED from [:widgets-release:] /home/thiago/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/1f79324a98fb8134b7d8201ea62fe922/AndroidManifest.xml:11:5-12:19
 	android:label
-		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:25:3-35
+		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:25:3-39
 	android:icon
 		ADDED from /var/www/gwentPointsCounter/platforms/android/app/src/main/AndroidManifest.xml:24:3-32
 	android:allowBackup

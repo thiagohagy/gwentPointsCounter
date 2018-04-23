@@ -1,0 +1,11 @@
+Page {
+    background-image: url("~/images/papperBg.jpg")
+}
+
+.factionImg {
+    margin: 0px 15px
+}
+
+Button {
+    background-color:rgb(153, 94, 48, 0.5)
+}

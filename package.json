@@ -1,10 +1,10 @@
 {
-	"description": "NativeScript Application",
-	"license": "SEE LICENSE IN <your-license-filename>",
+	"description": "Gwent card game points counter",
+	"license": "MIT",
 	"readme": "NativeScript Application",
-	"repository": "<fill-your-repository-here>",
+	"repository": "https://github.com/thiagohagy/gwentPointsCounter",
 	"nativescript": {
-		"id": "org.nativescript.Groceries",
+		"id": "org.nativescript.GwentCounter",
 		"tns-android": {
 			"version": "4.0.1"
 		}

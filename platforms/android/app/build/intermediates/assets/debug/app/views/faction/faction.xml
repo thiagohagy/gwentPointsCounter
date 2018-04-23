@@ -1,0 +1,14 @@
+<Page loaded="loaded">
+    
+    <ActionBar title="Choose your faction" icon="" class="action-bar"></ActionBar>
+
+    <FlexboxLayout  flexWrap="wrap" justifyContent="center">
+        <button text="" width="50%" id="faction1" tap="nextFaction"/>        
+        
+        <button text="" width="50%" id="faction2" tap="nextFaction"/>        
+
+        <button text="Ready!!" width="100%" id="letsPlay" height="50" tap="letsPlay"/>   
+
+    </FlexboxLayout>
+
+</Page>

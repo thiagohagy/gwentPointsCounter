@@ -1,21 +1,6 @@
 {
     "logs": [
         {
-            "outputFile": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/values-sl_values-sl.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/values-sl/values-sl.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,162,270,393,500,608,695,798,917,1002,1086,1170,1278,1387,1487,1600,1707,1811,1928,2025",
-                        "endColumns": "106,107,122,106,107,86,102,118,84,83,83,107,108,99,112,106,103,116,96,100",
-                        "endOffsets": "157,265,388,495,603,690,793,912,997,1081,1165,1273,1382,1482,1595,1702,1806,1923,2020,2121"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/var/www/gwentPointsCounter/platforms/android/app/build/intermediates/res/merged/debug/values-v13_values-v13.arsc.flat",
             "map": [
                 {
@@ -26,6 +11,21 @@
                         "startOffsets": "55",
                         "endColumns": "58",
                         "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/values-sl/values-sl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,162,270,393,500,608,695,798,917,1002,1086,1170,1278,1387,1487,1600,1707,1811,1928,2025",
+                        "endColumns": "106,107,122,106,107,86,102,118,84,83,83,107,108,99,112,106,103,116,96,100",
+                        "endOffsets": "157,265,388,495,603,690,793,912,997,1081,1165,1273,1382,1482,1595,1702,1806,1923,2020,2121"
                     }
                 }
             ]
@@ -1026,21 +1026,6 @@
             ]
         },
         {
-            "outputFile": "/var/www/gwentPointsCounter/platforms/android/app/build/intermediates/res/merged/debug/values-ja_values-ja.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/values-ja/values-ja.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,152,259,380,473,578,660,758,866,943,1019,1097,1199,1298,1393,1496,1591,1687,1798,1895",
-                        "endColumns": "96,106,120,92,104,81,97,107,76,75,77,101,98,94,102,94,95,110,96,100",
-                        "endOffsets": "147,254,375,468,573,655,753,861,938,1014,1092,1194,1293,1388,1491,1586,1682,1793,1890,1991"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/var/www/gwentPointsCounter/platforms/android/app/build/intermediates/res/merged/debug/values-ru_values-ru.arsc.flat",
             "map": [
                 {
@@ -1056,16 +1041,16 @@
             ]
         },
         {
-            "outputFile": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/values-v18_values-v18.arsc.flat",
+            "outputFile": "/var/www/gwentPointsCounter/platforms/android/app/build/intermediates/res/merged/debug/values-ja_values-ja.arsc.flat",
             "map": [
                 {
-                    "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/values-v18/values-v18.xml",
+                    "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/values-ja/values-ja.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "48",
-                        "endOffsets": "99"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,259,380,473,578,660,758,866,943,1019,1097,1199,1298,1393,1496,1591,1687,1798,1895",
+                        "endColumns": "96,106,120,92,104,81,97,107,76,75,77,101,98,94,102,94,95,110,96,100",
+                        "endOffsets": "147,254,375,468,573,655,753,861,938,1014,1092,1194,1293,1388,1491,1586,1682,1793,1890,1991"
                     }
                 }
             ]
@@ -1081,6 +1066,21 @@
                         "startOffsets": "55,173,281,404,515,632,717,822,948,1036,1122,1207,1318,1428,1530,1641,1750,1858,1981,2081",
                         "endColumns": "117,107,122,110,116,84,104,125,87,85,84,110,109,101,110,108,107,122,99,100",
                         "endOffsets": "168,276,399,510,627,712,817,943,1031,1117,1202,1313,1423,1525,1636,1745,1853,1976,2076,2177"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/var/www/Groceries/platforms/android/app/build/intermediates/res/merged/debug/values-v18_values-v18.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
                     }
                 }
             ]
