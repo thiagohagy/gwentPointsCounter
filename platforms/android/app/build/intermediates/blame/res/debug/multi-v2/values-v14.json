@@ -20,7 +20,7 @@
             "outputFile": "/var/www/gwentPointsCounter/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
             "map": [
                 {
-                    "source": "/home/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/values-v14/values-v14.xml",
+                    "source": "/home/best/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/04c75d53bf7a414306e41845e963716f/res/values-v14/values-v14.xml",
                     "from": {
                         "startLines": "2,7,8,9,15,21,22,23,26,27",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

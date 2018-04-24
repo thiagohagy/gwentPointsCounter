@@ -1,5 +1,9 @@
 [
     {
+        "name": "nativescript-audio",
+        "directory": "../../node_modules/nativescript-audio"
+    },
+    {
         "name": "nativescript-social-share",
         "directory": "../../node_modules/nativescript-social-share"
     },
@@ -10,6 +14,10 @@
     {
         "name": "tns-core-modules",
         "directory": "../../node_modules/tns-core-modules"
+    },
+    {
+        "name": "nativescript-permissions",
+        "directory": "../../node_modules/nativescript-permissions"
     },
     {
         "name": "tns-core-modules-widgets",

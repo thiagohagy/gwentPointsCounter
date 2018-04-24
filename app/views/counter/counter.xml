@@ -1,6 +1,6 @@
 <Page loaded="loaded">  
 
-        <GridLayout rows="auto,auto,auto, auto" columns="*,*,*,*,*,*,*,*,*" horizontalAlignment="center" verticalAlignment="center">
+        <GridLayout rows="auto,auto,auto,auto,auto,auto" columns="*,*,*,*,*,*,*,*,*" horizontalAlignment="center" verticalAlignment="center">
                 
             <Image row="0" col="0" class="factionImg" colSpan="4" src="{{ faction1 }}" />
             <Image row="0" col="5" class="factionImg" colSpan="4" src="{{ faction2 }}" />                
@@ -18,6 +18,9 @@
             <Label row="2" col="0" colSpan="9" text="" />            
 
             <Button row="3" col="0" colSpan="9" text="Reset points" tap="resetPoints" />            
+            
+            <Label row="5" col="0" colSpan="3" text="" />              
+            <Image row="5" col="4" class="soundControl" src="{{ playerImage }}"  tap="playStop"/>                
             
         </GridLayout>
 

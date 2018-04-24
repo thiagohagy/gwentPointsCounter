@@ -1,9 +1,9 @@
 {
-	"time": "Mon Apr 23 2018 17:31:43 GMT-0300 (BRT)",
+	"time": "Tue Apr 24 2018 13:47:00 GMT-0300 (BRT)",
 	"nativePlatformStatus": "3",
 	"bundle": false,
 	"release": false,
 	"changesRequireBuild": true,
-	"projectFileHash": "6e0ea9ef0c6134a1a182efc9a60798758b99d89c4016f477951b21eb40b49409",
-	"changesRequireBuildTime": "Mon Apr 23 2018 17:31:43 GMT-0300 (BRT)"
+	"projectFileHash": "16e1e2a39a24941c2284585079ad0fa91530be1d48634660fd454ad73d668668",
+	"changesRequireBuildTime": "Tue Apr 24 2018 13:47:00 GMT-0300 (BRT)"
 }

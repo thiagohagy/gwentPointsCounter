@@ -4,6 +4,11 @@ var frameModule = require("ui/frame");
 var config = require("../../shared/config");
 var page;
 
+var Audio = require("nativescript-audio");
+var AudioPlayer = new Audio.TNSPlayer();
+var ambientSound;
+var playing = 1;
+
 var pageData = new observableModule.fromObject({
   factions: config.factions,
   player1: 0, // posição da faction
@@ -13,8 +18,8 @@ var pageData = new observableModule.fromObject({
   player2Points:[0,0,0,0],
   faction1:"",
   faction2:"",
+  playerImage: "~/images/pause.png"
 });
-
 
 exports.loaded = function(args) {
     page = args.object;
@@ -29,14 +34,31 @@ exports.loaded = function(args) {
       pageData.faction2 = config.factions[pageData.player2];
       
     } 
+
+    var playerOptions = {
+      audioFile: '~/sounds/ost.mp3',
+      loop: true
+    }
+    AudioPlayer.playFromUrl(playerOptions);
+    
 };
 
 exports.resetPoints = function(){
-  console.log('teste');
   pageData.player1Points = [0,0,0,0];
   pageData.player2Points = [0,0,0,0];
 } 
 
+exports.playStop = function(){
+  if (playing) {
+    AudioPlayer.pause();
+    playing = 0;
+    pageData.playerImage =  "~/images/play.png"
+  } else {
+    AudioPlayer.play();
+    playing = 1;
+    pageData.playerImage =  "~/images/pause.png"
+  }
+}
 
 
 // exports.share = function() {
